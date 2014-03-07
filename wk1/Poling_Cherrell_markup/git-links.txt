@@ -1,5 +1,7 @@
-https://github.com/cherrellpoling/DWS_1/tree/gh-pages
 
-http://cherrellpoling.github.io/DWS_1/Poling_Cherrell_markup/cookie_recipe.html
 
-http://cherrellpoling.github.io/DWS_1/Poling_Cherrell_markup/element_definitions.html
+https://github.com/cherrellpoling/DWS_1/tree/gh-pages/wk1/Poling_Cherrell_markup
+
+http://cherrellpoling.github.io/DWS_1/wk1/Poling_Cherrell_markup/cookie_recipe.html
+
+http://cherrellpoling.github.io/DWS_1/wk1/Poling_Cherrell_markup/element_definitions.html
