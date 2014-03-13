@@ -30,9 +30,14 @@ h2 {
 blockquote{
 	background-color: hsl(245, 25%, 44%); 
 	color: black;
-	list-style-type: lower-roman;
 	}
 
+ol{
+	list-style-type: lower-roman;
+	display: block;
+	}
+
+	
 #wrapper{
 	
 	width: 600px;
