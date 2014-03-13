@@ -1,7 +1,7 @@
 div{
 	height:1675px;
 	width: 600px;
-	background-color:#666666;
+	background-color:#FAEBD7;
 	margin:2px;
 	padding:20px;
 	border:2px;
@@ -31,6 +31,7 @@ h1{
 	color: rgb(255,255,51);
 	background-color:#1F65BA;
 	text-shadow: 1px 1px 3px #666666;
+	text-align: center;
 
 	}	
 h2 {
