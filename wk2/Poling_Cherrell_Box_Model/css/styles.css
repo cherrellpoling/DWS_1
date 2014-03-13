@@ -1,18 +1,4 @@
-#wrapper{
-	
-	width: 600px;
-	background-color:#FAEBD7;
-	margin:2px;
-	padding:20px;
-	border:2px;
-	box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
--moz-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
--webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
--moz-border-radius: 15px;
-border-radius: 15px;
-	
 
-	}
 
 body {
 
@@ -45,6 +31,22 @@ blockquote{
 	background-color: hsl(245, 25%, 44%) 
 	color: black;
 	list-style-type: lower-roman;
+	}
+
+#wrapper{
+	
+	width: 600px;
+	background-color:#FAEBD7;
+	margin:2px;
+	padding:20px;
+	border:2px;
+	box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+-moz-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+-webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+-moz-border-radius: 15px;
+border-radius: 15px;
+	
+
 	}
 
 
