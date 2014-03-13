@@ -2,7 +2,7 @@
 
 body {
 
-	font family: Arial;
+	font-family: 'Arial';
 	text-align: justify;
 	background-color: #6A96BF;
 	color: #363942;
@@ -28,7 +28,7 @@ h2 {
 	opacity:0.6;
 	}
 blockquote{
-	background-color: hsl(245, 25%, 44%) 
+	background-color: hsl(245, 25%, 44%); 
 	color: black;
 	list-style-type: lower-roman;
 	}
