@@ -1,0 +1,46 @@
+body {
+
+	font family: Arial;
+	text-align: justify;
+	background-color: #6A96BF;
+	color: #363942;;
+	}
+	
+h1{
+	font-family: 'Diplomata', serif;
+	letter-spacing: 0.2em;
+	color: rgb(255,255,51);
+	background-color:#1F65BA;
+	text-shadow: 1px 1px 3px #666666;
+
+	}	
+h2 {
+	font-family: 'Diplomata', serif;
+	text-shadow:1px 1px 3px #666666;
+	color: rgb(25,25,112);
+	background-color:#eedd82;
+	opacity:0.6;
+	}
+blockquote{
+	background-color: hsl(245, 25%, 44%) 
+	color: black;
+	}
+
+
+#wiki{
+	font-style: italic; 
+	line-height: 3em;
+
+}
+
+#contents{
+	font-size:14pt;
+	text-transform: uppercase;
+	font-weight: bold; 
+	text-decoration: underline;
+}
+
+a:link { color: lime; text-decoration: none;}
+a:visited { color: white;}
+a:hover { color: lime; text-decoration: underline;}
+a:active { color: darkcyan;}
