@@ -1,0 +1,26 @@
+body {
+
+/* Got the colors from kuler website, set is called Blues to yellows */
+	font family: Arial;
+	background-color: #6A96BF;
+	color: #363942;
+	}
+	
+h1{
+	color: rgb(255,255,51);
+	background-color:#1F65BA;
+   }	
+	
+h2 {
+	color: rgb(25,25,112);
+	background-color:#eedd82;
+	opacity:0.6;
+	}
+blockquote{
+	background-color: hsl(245, 25%, 44%) 
+	color: black;
+	}
+
+
+
+	
