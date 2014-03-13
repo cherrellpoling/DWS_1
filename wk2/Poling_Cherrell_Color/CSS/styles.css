@@ -1,25 +1,25 @@
 body {
 
-/* Got the colors from kuler website, set is called Japanese Garden */
+/* Got the colors from kuler website, set is called Blues to yellows */
 	font family: Arial;
-	background-color: #D8CAA8;
+	background-color: #6A96BF;
 	color: #363942;
 	}
-	
+	/*found these colors on http://www.tayloredmktg.com/rgb/ */
 h1{
-	color: rgb(92,131,47);
-	background-color:#363942;
+	color: rgb(255,255,51);
+	background-color:#1F65BA;
 
 	}	
-	/*Used the color from kuler website and translated it into hsla for use as background 
-	color*/
+	
 h2 {
-	color: #382513;
-	background-color:hsla(88, 47%, 35%, 1);
+	color: rgb(25,25,112);
+	background-color:hsl(245, 25%, 44%);
+	opacity:0.6;
 	}
-ol{
-	background-color: red;
-	opacity:0.4;
+blockquote{
+	background-color: #9960BF;
+	color: black;
 
 }
 
