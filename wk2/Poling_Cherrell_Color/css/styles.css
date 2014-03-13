@@ -1,7 +1,7 @@
 body {
 
 /* Got the colors from kuler website, set is called Blues to yellows */
-	font family: Arial;
+	font-family: 'Arial';
 	background-color: #6A96BF;
 	color: #363942;
 	}
@@ -17,7 +17,7 @@ h2 {
 	opacity:0.6;
 	}
 blockquote{
-	background-color: hsl(245, 25%, 44%) 
+	background-color: hsl(245, 25%, 44%); 
 	color: black;
 	}
 
