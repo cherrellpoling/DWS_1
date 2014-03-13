@@ -14,11 +14,11 @@ h1{
 	
 h2 {
 	color: rgb(25,25,112);
-	background-color:hsl(245, 25%, 44%);
+	background-color:#eedd82;
 	opacity:0.6;
 	}
 blockquote{
-	background-color: #9960BF;
+	background-color: hsl(245, 25%, 44%) 
 	color: black;
 
 }
