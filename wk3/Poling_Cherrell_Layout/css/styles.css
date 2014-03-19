@@ -1,0 +1,87 @@
+
+
+body {
+
+	font-family: 'Arial';
+	text-align: justify;
+	background-color: #6A96BF;
+	color: #363942;
+	margin-left: auto;
+    margin-right: auto;
+    width:650px
+	}
+.column1{
+float: right;
+width:300px;
+margin:10px;
+}
+.column2{
+float:left;
+width:300px;
+margin:10px;
+}
+	
+h1{
+	font-family: 'Diplomata', serif;
+	letter-spacing: 0.2em;
+	color: rgb(255,255,51);
+	background-color:#1F65BA;
+	text-shadow: 1px 1px 3px #666666;
+	text-align: center;
+
+	}	
+h2 {
+	font-family: 'Diplomata', serif;
+	text-shadow:1px 1px 3px #666666;
+	color: rgb(25,25,112);
+	background-color:#eedd82;
+	opacity:0.6;
+	}
+blockquote{
+	background-color: hsl(245, 25%, 44%); 
+	color: black;
+	width:300px;
+	text-align: left;
+	
+	}
+
+ol{
+	list-style-type: lower-roman;
+	display: block;
+	}
+
+	
+#wrapper{
+	
+	width: 600px;
+	background-color:#FAEBD7;
+	margin:2px;
+	padding:20px;
+	border:2px;
+	box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+-moz-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+-webkit-box-shadow: 0px 0px 10px 4px rgba(119, 119, 119, 0.75);
+-moz-border-radius: 15px;
+border-radius: 15px;
+	
+
+	}
+
+
+#wiki{
+	font-style: italic; 
+	line-height: 3em;
+
+}
+
+#contents{
+	font-size:14pt;
+	text-transform: uppercase;
+	font-weight: bold; 
+	text-decoration: underline;
+}
+
+a:link { color: lime; text-decoration: none;}
+a:visited { color: white;}
+a:hover { color: lime; text-decoration: underline;}
+a:active { color: darkcyan;}
