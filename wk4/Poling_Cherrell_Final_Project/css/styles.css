@@ -92,8 +92,9 @@ color:#663333;
 
 .column1{
 		float: left;
-		width:90%;
-		margin:2%;
+		width:50%;
+		margin-left: 25%;
+   		 margin-right: 25%;
 		padding: .05em;
 		line-height: 1em;
 		text-align:center;
@@ -103,8 +104,10 @@ color:#663333;
 .column2{
 		float:left;
 		width:80%;
-		margin:10%;
+		margin-left: 10%;
+   		 margin-right: 10%;
 		padding: .05em;
+		text-align:center;
 		}
 .column3{
 		float:left;
